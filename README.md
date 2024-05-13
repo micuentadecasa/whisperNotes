@@ -1,3 +1,26 @@
+
+for starting
+
+bash ./models/download-ggml-model.sh base
+
+then make
+
+then run notetakergpt2.py
+
+for testing ...
+
+./main -f samples/jfk.wav
+
+TODO
+
+test .main con los audios en espanol en bash y luego pasarlo al codigo...
+
+
+# audio black hole
+add a multi output device in midi, add first the black hole, then the other devices, like the q20
+
+search the device id with the code and then start recording
+
 # whisper.cpp
 
 ![whisper.cpp](https://user-images.githubusercontent.com/1991296/235238348-05d0f6a4-da44-4900-a1de-d0707e75b763.jpeg)
